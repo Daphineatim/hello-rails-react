@@ -32,6 +32,9 @@
   <summary>Client</summary>
   <ul> 
     <li><a href="https://github.com/microverseinc/linters-config/tree/master/ror">Linters</a></li>
+    <li><a href="https://www.ruby-lang.org/en/news/2022/11/24/ruby-3-1-3-released/">Ruby 3.1</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby on Rails</a></li>
+</ul>
 
   </ul>
 </details>
